@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6fTjFgNpi0FOAfVceEemMyE7g4ZU5oumJi65dvi5gYwnwVvRBMDEqoIgYyB0ZO3O90Zd+HZjZgQQGOKejc8bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\FloodFill\\FloodFill\\FloodFill.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
