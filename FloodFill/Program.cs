@@ -4,7 +4,7 @@ using System.Drawing;
 
 FileStream _file;
 Bitmap bitMap;
-const string folderPath = "C:\\Users\\admin\\source\\repos\\FloodFill\\FloodFill\\bin\\Debug\\net6.0\\original\\";
+const string folderPath = "C:\\FloodFill\\original\\";
 
 FloodFillService floodFillService = new FloodFillService();
 Dictionary<Bitmap, string> imgs = new Dictionary<Bitmap, string>();

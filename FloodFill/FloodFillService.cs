@@ -11,7 +11,7 @@ namespace FloodFill
     internal class FloodFillService
     {
 
-        const string outPath = "C:\\Users\\admin\\source\\repos\\FloodFill\\FloodFill\\bin\\Debug\\net6.0\\edited\\";
+        const string outPath = "C:\\FloodFill\\edited\\";
 
         public void FloodFill(Bitmap bitMap, string fileName)
         {
